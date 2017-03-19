@@ -38,8 +38,8 @@ var (
 
 var option = twtr.AuthOption{
 	ConsumerCreds: twtr.ConsumerCreds{
-		Token:  "VG5ZZjwkMOQMK6jqClQ27fcVf",
-		Secret: "6u83aMUYdPYdEUEF9OUQjXLmT1RJHQdLFIamsl6yeRvGEYQkCr",
+		Token:  "apLrhDofk87PZB0QS23unljHs",
+		Secret: "zQ9G17swajLJdgfKMurqdwC85wlm1eT5UAT8DN4B3iX9jk8V7X",
 	},
 }
 
