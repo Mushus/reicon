@@ -1,5 +1,5 @@
 # reicon
-command line tool for changing twitter profile icon 
+command line tool for changing twitter profile icon
 
 ## なにこれ
 
@@ -30,6 +30,8 @@ ex. config.jsonの設定でbg配下の画像を下地にimg配下の画像をラ
 reicon -config /home/user/reicon/config.json -image "/home/user/bg/*;/home/user/bg/*"
 ```
 
+主な用途は crontab に指定してtwitterのアイコンを定期的に変えることです。
+
 ### 色がわからない
 
 webカラーコード等でググってください
@@ -46,11 +48,11 @@ webカラーコード等でググってください
 
 | 環境                 | URL |
 |:-------------------:|:-:|
-| Windows             | http:// |
-| Linux               | http:// |
-| MacOS               | http:// |
-| Rasberry Pi 1(ARM6) | http:// |
-| ARM7                | http:// |
+| Windows             | https://github.com/Mushus/reicon/raw/master/build/windows-amd64/reicon.exe |
+| Linux               | https://github.com/Mushus/reicon/raw/master/build/linux-amd64/reicon |
+| MacOS               | https://github.com/Mushus/reicon/raw/master/build/darwin-amd64/reicon |
+| Rasberry Pi 1(ARM6) | https://github.com/Mushus/reicon/raw/master/build/linux-arm6/reicon |
+| ARM7                | https://github.com/Mushus/reicon/raw/master/build/linux-arm7/reicon |
 
 ## Licence
 
