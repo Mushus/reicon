@@ -46,13 +46,13 @@ webカラーコード等でググってください
 
 ## ダウンロード
 
-| 環境                 | URL |
-|:-------------------:|:-:|
-| Windows             | https://github.com/Mushus/reicon/raw/master/build/windows-amd64/reicon.exe |
-| Linux               | https://github.com/Mushus/reicon/raw/master/build/linux-amd64/reicon |
-| MacOS               | https://github.com/Mushus/reicon/raw/master/build/darwin-amd64/reicon |
-| Rasberry Pi 1(ARM6) | https://github.com/Mushus/reicon/raw/master/build/linux-arm6/reicon |
-| ARM7                | https://github.com/Mushus/reicon/raw/master/build/linux-arm7/reicon |
+| 環境                      | URL |
+|:-------------------------:|:-:|
+| Windows                   | https://github.com/Mushus/reicon/raw/master/build/windows-amd64/reicon.exe |
+| Linux                     | https://github.com/Mushus/reicon/raw/master/build/linux-amd64/reicon |
+| MacOS                     | https://github.com/Mushus/reicon/raw/master/build/darwin-amd64/reicon |
+| Linux/ARM6(rasberry Pi 1) | https://github.com/Mushus/reicon/raw/master/build/linux-arm6/reicon |
+| ARM7                      | https://github.com/Mushus/reicon/raw/master/build/linux-arm7/reicon |
 
 ## Licence
 
